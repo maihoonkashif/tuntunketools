@@ -1,2 +1,2 @@
 @echo off
-msg %username% if you move you are GAY !
+msg %username% If youu movee you are GAY !
